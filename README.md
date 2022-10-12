@@ -15,7 +15,6 @@ $ npm run compile
 
 $ ls build
 __tests__  app.js     app.js.map
-shane|(master *%=):typescript-hello$ 
 ```
 
 ## Test
